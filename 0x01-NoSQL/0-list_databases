@@ -1,0 +1,2 @@
+//Shows all databases in a mongdb
+show dbs
